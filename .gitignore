@@ -1,0 +1,14 @@
+__Pycache__/
+*.py[cod]
+.venv/
+.env
+node_modules/
+dist/
+*.pyc
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.safetensors
+*.bin
+*.h5
